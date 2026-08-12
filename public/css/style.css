@@ -75,3 +75,11 @@ li a:hover {
     max-width: 50px;
     max-height: 50px;
 }
+
+.logout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px;
+    flex-direction: column;
+}
